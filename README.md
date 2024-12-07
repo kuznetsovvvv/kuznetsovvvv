@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to my GitHub! I'm Misha 👋
+# Welcome to my GitHub! I'm Misha 👋![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
 A Computer Science graduate at Bauman Moscow State Technical University. I am completely passionate about in coding science, also very interested in developing projects.
 
 # 💻 Tech Stack:
